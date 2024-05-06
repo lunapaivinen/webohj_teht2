@@ -1,1 +1,1 @@
-{{"text":"What is 1+1?", "answers":{1, 2, 3}, "correctanswer":2}, {"text":"What is 1*2?", "answers":{1, 2, 3}, "correctanswer":2}, {"text":"What is 2*2?", "answers":{1, 2, 4}, "correctanswer":3}}
+[{"text":"What is 1+1?", "answers":{1, 2, 3}, "correctanswer":2}, {"text":"What is 1*2?", "answers":{1, 2, 3}, "correctanswer":2}, {"text":"What is 2*2?", "answers":{1, 2, 4}, "correctanswer":3}]

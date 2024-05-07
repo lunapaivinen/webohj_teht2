@@ -1,16 +1,16 @@
 {"questions": [
     {
-      "text": "What is 1 plus 1", 
+      "text": "What is 1 plus 1?", 
       "answers": [1, 2, 3], 
       "correctanswer": 2
     }, 
     {
-      "text": "What is 1 times 2", 
+      "text": "What is 1 times 2?", 
       "answers": [1, 2, 3], 
       "correctanswer": 2
     }, 
     {
-      "text": "What is 2 times 2", 
+      "text": "What is 2 times 2?", 
       "answers": [1, 2, 4], 
       "correctanswer": 3
     }
